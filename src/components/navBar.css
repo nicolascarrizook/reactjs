@@ -1,0 +1,20 @@
+.nav__container{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav__logo{
+    padding: .5em;
+}
+
+.nav__links{
+    display: flex;
+    align-items: center;
+}
+
+.links__item{
+    padding: .5em;
+    font-weight: 400;
+    font-size: .8em;
+}
