@@ -9,7 +9,7 @@ export const NavBar = () => {
         <Fragment>
                 <nav className="nav__container">
                     <div className="nav__logo">
-                        <Link href="/"> <img src="#" alt="logo" />Casa G Pattiserie</Link>
+                        <Link href="/"> <img src="assets/logo.png" alt="logo" className="img" /></Link>
                     </div>
                     <div className="nav__links">
                         <Link href="#" underline="none" className="links__item"> Inicio </Link>

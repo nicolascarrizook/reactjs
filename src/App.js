@@ -11,7 +11,7 @@ export const App = () => {
   return (
       <Container>
         <NavBar />
-        <ItemListContainer message="Greeting of app JS"/>
+        <ItemListContainer />
       </Container>
   )
 }
